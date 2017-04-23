@@ -1,0 +1,22 @@
+{
+  "name": "rjn-helloworld",
+  "version": "1.0.0",
+  "description": "a sample npm Hello world package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crongjie/npm-rjn-helloworld.git"
+  },
+  "keywords": [
+    "helloWorld"
+  ],
+  "author": "RJ <rongjie.tablet@gmail.com> (http://rj-memo.weebly.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crongjie/npm-rjn-helloworld/issues"
+  },
+  "homepage": "https://github.com/crongjie/npm-rjn-helloworld#readme"
+}
